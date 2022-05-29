@@ -1,3 +1,4 @@
-# PraktikumProbstatModul2
-PRAKTIKUM PROBSTAT MODUL 2 KELAS PROBSTAT F 
+# Praktikum Probstat Modul2 Kelas F
+Sastiara Maulikh 
+NRP 5025201257
 
